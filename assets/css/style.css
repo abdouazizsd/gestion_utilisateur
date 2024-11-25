@@ -1,0 +1,23 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+}
+.container {
+    margin-top: 100px;
+}
+a {
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 10px;
+    color: white;
+    background-color: #007BFF;
+    border-radius: 5px;
+    font-size: 18px;
+}
+a:hover {
+    background-color: #0056b3;
+}
