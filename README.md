@@ -1,5 +1,4 @@
-Voici un exemple de **cahier des charges** pour votre application de gestion des utilisateurs. Ce document décrit les exigences fonctionnelles et
-techniques de l'application, ainsi que les attentes générales pour le projet
+
 ## **Cahier des charges : Application de gestion des utilisateurs**
 
 ### **1. Objectif du projet**
