@@ -103,4 +103,4 @@ L'application sera déployée sur un serveur Apache avec PHP et MySQL. Une fois 
 
 Ce cahier des charges définit les exigences et la structure de l'application de gestion des utilisateurs. Le projet vise à offrir une interface simple et sécurisée pour les utilisateurs souhaitant s'inscrire, se connecter, et accéder à un tableau de bord après authentification.
 
-Si vous avez des questions ou des ajouts à faire, n'hésitez pas à les préciser ! 😊
+
